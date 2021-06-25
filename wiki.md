@@ -1,2 +1,5 @@
 ## Трейдинг (наверное)
 - [Что такое скользящие средние и как на них заработать?](https://bcs-express.ru/novosti-i-analitika/chto-takoe-skol-ziashchie-srednie-i-kak-na-nikh-zarabotat)
+- [Что такое RSI индикатор?](https://academy.binance.com/ru/articles/what-is-the-rsi-indicator)
+- [Знакомимся со стохастиком](https://paritet.group/stati-forex/klassicheskiy-indikator-stochastic-rsi)
+- [Что такое CFD трейдинг (контракт на разницу)?](https://capital.com/ru/cto-takoe-kontrakty-na-raznicu-cen)
