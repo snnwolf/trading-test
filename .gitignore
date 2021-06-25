@@ -1,0 +1,17 @@
+*.py[co]
+*.log
+*.pyc
+*.zip
+.idea*
+.DS_Store
+activate
+node_modules
+*sublime*
+media/
+renv/
+venv/
+photos/*
+instance/
+*.csv
+*.xlsx
+
